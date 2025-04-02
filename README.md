@@ -29,4 +29,4 @@ I have implemented *multiple Machine Learning algorithms* using two different ap
 
 ## 🎥 Video Walkthrough  
 
-Check out my *https://surl.li/ucttgv* 👈 here! 
+Check out my work *https://surl.li/ucttgv* 👈 here! 
