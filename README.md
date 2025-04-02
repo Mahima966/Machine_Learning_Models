@@ -1,6 +1,6 @@
 # Machine_Learning_Models
 
-# 🚀 Machine Learning Models using opps
+
 
 I have implemented *multiple Machine Learning algorithms* using two different approaches:  
 ✅ *From Scratch with Object-Oriented Programming (OOPs)* – To understand the core logic behind ML models.  
@@ -29,4 +29,4 @@ I have implemented *multiple Machine Learning algorithms* using two different ap
 
 ## 🎥 Video Walkthrough  
 
-Check out my *[video walkthrough](#)* 👈 here! 
+Check out my *https://surl.li/ucttgv* 👈 here! 
